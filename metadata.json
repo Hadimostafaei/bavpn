@@ -1,0 +1,6 @@
+{
+  "name": "Bavpn Tor Client",
+  "description": "Android application connecting to Tor using custom obfs4 and webtunnel bridges via MVVM architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
